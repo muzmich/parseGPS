@@ -22,7 +22,7 @@ It will take all of the photos from the `images` folder and create file in forma
   },
 ]
 ``` 
-> ## ⚠️ Files without location will be <span style='color:tomato'>ignored</span>
+> ⚠️ Files without location will be <span style='color:tomato'>ignored</span>
 
 |Image format supports||
 |-|-|
