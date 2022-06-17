@@ -1,0 +1,15 @@
+{
+  "name": "parse-gps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parseGPS.js",
+  "scripts": {
+    "start": "node parseGPS.js"
+  },
+  "keywords": [],
+  "author": "muzmich@icloud.com",
+  "license": "ISC",
+  "dependencies": {
+    "exifr": "^7.1.3"
+  }
+}
